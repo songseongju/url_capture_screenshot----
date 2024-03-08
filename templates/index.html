@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>웹 스크린샷 페이지</title>
+</head>
+<body>
+    <h2>URL 입력</h2>
+    <form action="/screenshot" method="post">
+        <input type="text" name="url" placeholder="Enter URL...">
+        <button type="submit">스크린샷 캡처</button>
+    </form>
+
+    {% if image_data %}
+    <h2>캡처된 스크린샷</h2>
+    <img src="data:image/png;base64,{{ image_data }}" alt="Screenshot" width="50%" height="auto">
+    {% endif %}
+</body>
+</html>
