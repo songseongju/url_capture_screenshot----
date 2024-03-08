@@ -3,6 +3,9 @@ Flask / Selenium / webdriver_manager / Pillow 라이브러리 이용
 
 PHP 대체 flask 사용 linux 서버(우분투)에 연동 할 예정.
 
+실행 화면보기 
+
+<img width="793" alt="Screenshot 2024-03-08 at 10 35 01 AM" src="https://github.com/songseongju/url_capture_screenshot----/assets/122763566/f827367a-07cb-4a92-a74a-21446d1c55ad">
 
 현재 window / mac 환경에서는 cromdriver 자동 install 되는데 
 linux (우분투) 에서는 자동 install 이 안되고 PATH(크롬드라이버 설치 후 파일 주소 지정해야함)
