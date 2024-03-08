@@ -15,6 +15,7 @@ linux (우분투) 에서는 자동 install 이 안되고 PATH(크롬드라이버
     sudo vi google-chrome.list
 - 해당 파일 내에 저장소 연결이 있는데 이 부분 주석처리
 
-================  문제 생겼을 경우 =============================
+- 문제 생겼을 경우
+
 3. 의존성 문제 해결 및 크롬 stable 버전 재설치 
  Apt —fix-broken install
