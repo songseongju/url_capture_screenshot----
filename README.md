@@ -8,7 +8,7 @@ bin/sh: 1: google-chrome: not found
 /bin/sh: 1: google-chrome-dev: not 
 오류 -> chrome & cromedriver not found error
 
-실행 화면보기 
+(mac & Window) 실행 화면보기 
 
 <img width="793" alt="Screenshot 2024-03-08 at 10 35 01 AM" src="https://github.com/songseongju/url_capture_screenshot----/assets/122763566/f827367a-07cb-4a92-a74a-21446d1c55ad">
 
